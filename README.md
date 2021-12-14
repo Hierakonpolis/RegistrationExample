@@ -1,2 +1,2 @@
 # RegistrationExample
-Just an example registration class for an MRI dataset
+Just an example class for an MRI dataset, motion correction and registration to a template.
